@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "build": "parcel build chatting.html starting.html"
+    "build": "parcel build chatting.html starting.html intro.html"
   },
   "keywords": [],
   "author": "",
