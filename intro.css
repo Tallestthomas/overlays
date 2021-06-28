@@ -7,7 +7,6 @@ body {
 
 canvas {
   display: block;
-  vertical-align: bottom;
 } /* canvas */
 
 /* ---- particles.js container ---- */
@@ -250,8 +249,8 @@ canvas {
   width: 2000px;
   height: 2000px;
   transform: scale(3);
-background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(94,177,191,1) 100%);
-animation: spin 30s linear infinite;
+  background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(94,177,191,1) 100%);
+  animation: spin 30s linear infinite;
 };
 
 @keyframes spin {
